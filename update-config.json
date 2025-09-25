@@ -1,6 +1,6 @@
   {
-    "versionCode": 10114,
+    "versionCode": 10115,
     "forceUpdate": false,
     "description": "Older version for testing no-update scenario",
-    "apkFileName": "https://raw.githubusercontent.com/OnTheWayHomeWard/ettaPayUpdate/master/ettaPay_1.0.12.apk"
+    "apkFileName": "https://raw.githubusercontent.com/OnTheWayHomeWard/ettaPayUpdate/master/ettaPos.apk"
   }
